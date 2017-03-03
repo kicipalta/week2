@@ -1,2 +1,5 @@
-
-puts name = "aman"
+name = "Aman"
+age = "100"
+lname = "Amanov"
+bday = "9th of february"
+puts "My name is " + name + " and surname is " + lname + "." + "I am " + age.to_s + "years old." + "I was born on " + bday.to_s + "."  
