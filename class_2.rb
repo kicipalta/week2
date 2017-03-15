@@ -1,3 +1,6 @@
+
+
+
 # Data structure
 
 # 1 - string
@@ -76,6 +79,8 @@ def kopeltmek(num1,num2)
 	puts num1.to_i * num2.to_i
 end
 kopeltmek(san1, san2)
+
+
 
 
 
